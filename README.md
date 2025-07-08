@@ -1,4 +1,4 @@
-# Cybersecurity-Labs-Portfolio
+# Cybersecurity Labs Portfolio
 
 ## 🛠️ Personal Projects
 ### Lab
