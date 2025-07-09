@@ -13,9 +13,9 @@ Summary
 
 ## 🎓 School Projects
 
-### Lab
-Summary   
-🔗 [View Project](#)
+### Virtual Machine Setup
+Installed and configured a Linux virtual machine using Oracle VirtualBox  
+🔗 [View Project](https://github.com/jsngzm/Virtual-Machine-Setup)
 
 ### Terminal Navigation with Bash and PowerShell 
 Used basic command-line navigation in both Linux (Bash) and Windows (PowerShell) environments  
