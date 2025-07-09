@@ -21,13 +21,9 @@ Installed and configured a Linux virtual machine using Oracle VirtualBox
 Used basic command-line navigation in both Linux (Bash) and Windows (PowerShell) environments  
 🔗 [View Project](https://github.com/jsngzm/Terminal-Navigation)
 
-### Lab
-Summary   
-🔗 [View Project](#)
-
-### Lab
-Summary   
-🔗 [View Project](#)
+### Bash Scripting
+Developed a basic Bash script using the Linux terminal   
+🔗 [View Project](https://github.com/jsngzm/Bash-Scripting)
 
 ---
 👋 Built by Jason Guzman | Currently pursuing a Cybersecurity degree at the University of Texas San Antonio
